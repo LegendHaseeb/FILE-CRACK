@@ -24,7 +24,7 @@ if bit == "64bit":
  
 elif bit == "32bit":
  
-        from MAHADIF32 import __login
+        from OK import __login
  
  
         __login()

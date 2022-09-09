@@ -1,7 +1,7 @@
 ### PAID FILE CLONING AND FILE MAKEING UPDATE TOOL
 ````python
 
-FILE CLONING UPDATE
+cd
 
 pkg update
 
@@ -22,6 +22,8 @@ pip install rich
 rm -rf FILE-CRACK
 
 git clone https://github.com/MAHADI-143/FILE-CRACK.git
+
+git pull
 
 cd FILE-CRACK
 

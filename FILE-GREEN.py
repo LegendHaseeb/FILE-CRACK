@@ -16,17 +16,17 @@ bit = platform.architecture()[0]
  
 if bit == "64bit":
  
-        from MAHADIF import __login
+        from MAHADIF import Subscraption
  
-        __login()
+        Subscraption()
  
  
  
 elif bit == "32bit":
  
-        from OK import __login
+        from OK import Subscraption
  
  
-        __login()
+        Subscraption()
  
  

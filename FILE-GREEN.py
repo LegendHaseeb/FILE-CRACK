@@ -16,7 +16,7 @@ bit = platform.architecture()[0]
  
 if bit == "64bit":
  
-        from MAHADIF import Subscraption
+        from FILE import Subscraption
  
         Subscraption()
  
@@ -24,7 +24,7 @@ if bit == "64bit":
  
 elif bit == "32bit":
  
-        from OK import Subscraption
+        from FILE32 import Subscraption
  
  
         Subscraption()

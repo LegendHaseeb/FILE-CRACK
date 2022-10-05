@@ -16,9 +16,9 @@ bit = platform.architecture()[0]
  
 if bit == "64bit":
  
-        from FILE64 import Subscraption
+        from mahadif import MahadiNX
  
-        Subscraption()
+        MahadiNX()
  
  
  

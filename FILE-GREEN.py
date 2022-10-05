@@ -24,9 +24,9 @@ if bit == "64bit":
  
 elif bit == "32bit":
  
-        from FILE import Subscraption
+        from mahadif32 import MahadiNX
  
  
-        Subscraption()
+        MahadiNX()
  
  
